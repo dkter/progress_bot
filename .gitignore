@@ -1,6 +1,0 @@
-credentials.py
-*.pyc
-__pycache__
-.mypy_cache
-tdsb_progress.zip
-*.png
